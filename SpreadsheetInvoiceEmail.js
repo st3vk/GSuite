@@ -15,7 +15,6 @@ function onOpen() {
 }
 // Other Global Variables for both function
 
-
     var ss = SpreadsheetApp.getActiveSpreadsheet()
     var ssID = ss.getId();
     var sheetgId = ss.getActiveSheet().getSheetId();
