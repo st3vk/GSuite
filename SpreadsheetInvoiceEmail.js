@@ -46,7 +46,7 @@ function onOpen() {
 // Subject & Body of the mail >> Unpaid Invoice
 
 function EmailUnpaidInvoice() {
-    var subject2 = sheetName +" - Unpaid Invoice " + ss.getSheetName() + " - Streamroot SAS";
+    var subject2 = sheetName +" - Unpaid Invoice " + ss.getSheetName() + " - Steven Kaci";
     var body2 = "Hello, " + SpreadsheetApp.getActiveSpreadsheet().getName() +", "
         + "<p>Hope you're doing well. "
         + "<p>I allow myself to contact you, because unless we are mistaken, we have not yet received the invoice payment. <b>" +ss.getSheetName() + "</b> corresponsant à votre « "+ details +" ». "
