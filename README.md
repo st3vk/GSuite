@@ -6,4 +6,4 @@ Javascript code available [here](https://github.com/st3vk/GSuite/blob/master/Goo
 
 <H1>Export Google Sheet to CSV in a Drive Folder</H1>
 <br></br>
-Javascript code available [here](https://github.com/st3vk/GSuite/blob/master/GoogleSheetToCSV.js)https://github.com/st3vk/GSuite/blob/master/GoogleSheetToCSV.js). 
+Javascript code available [here](https://github.com/st3vk/GSuite/blob/master/GoogleSheetToCSV.js). 
