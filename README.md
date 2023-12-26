@@ -4,7 +4,7 @@ Personnal Projects for <b>Google Sheet</b> using Apps Script to be more producti
 Javascript code available [here](https://github.com/st3vk/GSuite/blob/master/GoogleSheetPDFInvoiceEmail.js) 
 
 <H1>Export Google Sheet to CSV in a Drive Folder</H1>
-Javascript code available [here](https:/github.com//st3vk/GSuite/blob/master/GoogleSheetToCSV.js)
+Javascript code available [here](https://github.com//st3vk/GSuite/blob/master/GoogleSheetToCSV.js)
 
 <br></br> 
 With ❤️ from France
